@@ -1,6 +1,6 @@
 /*
   Tamagotchi desenvolvido como um simples passa tempo em C.
-  Desde criança sempre quis ter um, mas nuunca havia tido condições para tal.
+  Desde criança sempre quis ter um, mas nunca havia tido condições para tal.
   Então que programemos o nosso!.
 
   Projeto iniciado em 02 de Setembro de 2024.
